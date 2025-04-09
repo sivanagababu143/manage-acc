@@ -1,4 +1,4 @@
-apiversion: 40
+apiversion:50
 kind: Deployment
 metadata: 
 spec:
